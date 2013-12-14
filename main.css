@@ -1,0 +1,36 @@
+body {
+    background-color: #696969
+}
+h1 {
+    text-align: center;
+    font-family: Verdana, Arial;
+    color: #000000;
+}
+form {
+    font-family: Helvetica;
+    display: inline-block;
+}
+#todos {
+    margin: 0 auto;
+    list-style:none;
+    border: 3px solid #000000;
+    width:400px;
+    -moz-border-radius: 5px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    padding:10px;
+    background: #eeeeee
+}
+a {
+    color: #556B2F
+}
+
+span{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    padding-bottom:20px;
+}
